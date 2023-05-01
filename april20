@@ -1,3 +1,7 @@
-Hi this is vasu and this is my idfc project
-this is second day code
-third code
+class HelloWorld
+{
+  public static void main(String[] args)
+  {
+    System.out.println("Hello World!!");
+  }
+}
